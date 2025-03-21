@@ -25,7 +25,7 @@ I create high-quality UI components and develop APIs using **Nuxt 2** and **Nuxt
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Programming Languages
-![JavaScript](https://img.shields.io.bage=F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ### Frameworks & UI Libraries
