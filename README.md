@@ -1,10 +1,10 @@
-# Hello! 👋
+# Greetings!
 
 I am a **Middle Frontend Developer** with over 7 years of experience in developing user interfaces for web applications.
 
-## About Me
+## About me
 
-I confidently work with modern frameworks and libraries such as:
+I confidently work with modern frameworks and libraries, such as:
 
 - **Vue**
 - **Nuxt**
@@ -87,3 +87,17 @@ I create high-quality UI components and develop APIs using **Nuxt 2** and **Nuxt
 - **[junliwin.com]**
 - **[boomrang.bet]**
 - **[0x.bet]**
+
+## Personal Qualities
+
+- A team player with attention to detail and a passion for learning.
+- Fast learner who enjoys implementing modern development approaches.
+
+## Contacts
+
+If you have any questions or would like to discuss a collaboration, feel free to reach out!
+
+- Telegram: [@skvortsov_web]
+- Skype: beatman90
+- Viber/WhatsApp: +7(901)172-68-98
+- Email: [andrejskvorocov@gmail.com](mailto:andrejskvorocov@gmail.com)
